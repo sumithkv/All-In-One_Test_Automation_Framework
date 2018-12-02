@@ -31,8 +31,8 @@ public class LoginTest {
 		driver.get("http://newtours.demoaut.com/mercuryreservation.php");
 	}
 
-	@Test(description = "Login Page Test Using Page Factory", groups = "WEB")
-	@Description("Test Description: Login Page Test Using Page Factory")
+	@Test(description = "Login Test Using Page Factory", groups = "WEB")
+	@Description("Test Description: Login Test Using Page Factory")
 	@Epic("NSS v7.1")
 	@Feature("Web UI")
 	@Story("User Story: Selenium Page Object Model Tests")

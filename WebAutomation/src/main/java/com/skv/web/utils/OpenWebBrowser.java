@@ -102,5 +102,4 @@ public class OpenWebBrowser {
 
 		return driver;
 	}
-
 }
