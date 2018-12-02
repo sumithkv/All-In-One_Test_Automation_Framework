@@ -32,7 +32,7 @@ public abstract class AbstractApi {
 			keyStore.load(new FileInputStream(KeyStoreFile), KeyStorePassword.toCharArray());
 
 		} catch (Exception ex) {
-			System.out.println("Error while loading keystore >>>>>>>>>");
+			System.out.println("Error while loading the keystore >>>>>>>>>");
 			ex.printStackTrace();
 		}
 
