@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="6" failed="4" total="18" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suites (Web + API + Mobile)" duration-ms="0" started-at="2018-10-20T11:26:52Z" finished-at="2018-10-20T11:26:52Z">
+    <groups>
+    </groups>
+  </suite> <!-- All Test Suites (Web + API + Mobile) -->
+  <suite name="Web Application Test Suite" duration-ms="124021" started-at="2018-10-20T11:24:48Z" finished-at="2018-10-20T11:26:52Z">
+    <groups>
+      <group name="WEB">
+        <method signature="LoginTest.testLogin()[pri:0, instance:com.skv.tests.web.LoginTest@71c905a3]" name="testLogin" class="com.skv.tests.web.LoginTest"/>
+        <method signature="Web_Application_Tests.addProductTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="addProductTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.homePageTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="homePageTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.loginTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="loginTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.logoutTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="logoutTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.searchProducts()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="searchProducts" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="LoginTest.testLogin()[pri:0, instance:com.skv.tests.web.LoginTest@5226e402]" name="testLogin" class="com.skv.tests.web.LoginTest"/>
+        <method signature="Web_Application_Tests.addProductTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="addProductTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.homePageTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="homePageTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.loginTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="loginTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.logoutTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="logoutTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.searchProducts()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="searchProducts" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="LoginTest.testLogin()[pri:0, instance:com.skv.tests.web.LoginTest@37c5fc56]" name="testLogin" class="com.skv.tests.web.LoginTest"/>
+        <method signature="Web_Application_Tests.addProductTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="addProductTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.homePageTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="homePageTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.loginTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="loginTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.logoutTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="logoutTest" class="com.skv.tests.web.Web_Application_Tests"/>
+        <method signature="Web_Application_Tests.searchProducts()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="searchProducts" class="com.skv.tests.web.Web_Application_Tests"/>
+      </group> <!-- WEB -->
+    </groups>
+    <test name="Web Test - Firefox Browser" duration-ms="1176" started-at="2018-10-20T11:24:48Z" finished-at="2018-10-20T11:24:49Z">
+      <class name="com.skv.tests.web.Web_Application_Tests">
+        <test-method status="FAIL" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:48Z" finished-at="2018-10-20T16:54:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.skv.framework.utils.SetWebDriver.setWebBrowser(SetWebDriver.java:46)
+	at com.skv.tests.web.Web_Application_Tests.beforeMethod(Web_Application_Tests.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:589)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="addProductTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="addProductTest" duration-ms="7" started-at="2018-10-20T16:54:48Z" description="Product Page Test" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductTest -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="homePageTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="homePageTest" duration-ms="4" started-at="2018-10-20T16:54:49Z" description="Home Page Test" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="loginTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="loginTest" duration-ms="9" started-at="2018-10-20T16:54:49Z" description="Login Page Test" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="logoutTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="logoutTest" duration-ms="5" started-at="2018-10-20T16:54:49Z" description="Logout Page Test" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="SKIP" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="SKIP" signature="searchProducts()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="searchProducts" duration-ms="4" started-at="2018-10-20T16:54:49Z" description="Screenshot Capture Test" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProducts -->
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@30af7377]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:49Z" finished-at="2018-10-20T16:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.skv.tests.web.Web_Application_Tests -->
+      <class name="com.skv.tests.web.LoginTest">
+        <test-method status="FAIL" signature="setUp(java.lang.String)[pri:0, instance:com.skv.tests.web.LoginTest@71c905a3]" name="setUp" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:48Z" finished-at="2018-10-20T16:54:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.skv.framework.utils.SetWebDriver.setWebBrowser(SetWebDriver.java:46)
+	at com.skv.tests.web.LoginTest.setUp(LoginTest.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:142)
+	at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:178)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:108)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="testLogin()[pri:0, instance:com.skv.tests.web.LoginTest@71c905a3]" name="testLogin" duration-ms="168" started-at="2018-10-20T16:54:48Z" description="Login Page Test Using Page Factory" finished-at="2018-10-20T16:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.skv.tests.web.LoginTest@71c905a3]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-10-20T16:54:48Z" finished-at="2018-10-20T16:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.skv.tests.web.LoginTest -->
+    </test> <!-- Web Test - Firefox Browser -->
+    <test name="Web Test - Edge Browser" duration-ms="100350" started-at="2018-10-20T11:24:48Z" finished-at="2018-10-20T11:26:28Z">
+      <class name="com.skv.tests.web.Web_Application_Tests">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="beforeMethod" is-config="true" duration-ms="1421" started-at="2018-10-20T16:55:40Z" finished-at="2018-10-20T16:55:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addProductTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="addProductTest" duration-ms="4414" started-at="2018-10-20T16:55:42Z" description="Product Page Test" finished-at="2018-10-20T16:55:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="afterMethod" is-config="true" duration-ms="3149" started-at="2018-10-20T16:55:46Z" finished-at="2018-10-20T16:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="beforeMethod" is-config="true" duration-ms="1840" started-at="2018-10-20T16:55:49Z" finished-at="2018-10-20T16:55:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="homePageTest" duration-ms="9141" started-at="2018-10-20T16:55:51Z" description="Home Page Test" finished-at="2018-10-20T16:56:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="afterMethod" is-config="true" duration-ms="1279" started-at="2018-10-20T16:56:00Z" finished-at="2018-10-20T16:56:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="beforeMethod" is-config="true" duration-ms="1573" started-at="2018-10-20T16:56:02Z" finished-at="2018-10-20T16:56:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="loginTest" duration-ms="8003" started-at="2018-10-20T16:56:03Z" description="Login Page Test" finished-at="2018-10-20T16:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="afterMethod" is-config="true" duration-ms="1724" started-at="2018-10-20T16:56:11Z" finished-at="2018-10-20T16:56:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="beforeMethod" is-config="true" duration-ms="1515" started-at="2018-10-20T16:56:13Z" finished-at="2018-10-20T16:56:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="logoutTest" duration-ms="2757" started-at="2018-10-20T16:56:14Z" description="Logout Page Test" finished-at="2018-10-20T16:56:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="afterMethod" is-config="true" duration-ms="1371" started-at="2018-10-20T16:56:17Z" finished-at="2018-10-20T16:56:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="beforeMethod" is-config="true" duration-ms="1366" started-at="2018-10-20T16:56:19Z" finished-at="2018-10-20T16:56:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="searchProducts()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="searchProducts" duration-ms="6156" started-at="2018-10-20T16:56:20Z" description="Screenshot Capture Test" finished-at="2018-10-20T16:56:26Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[I Am Failed To Execute...]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: I Am Failed To Execute...
+	at org.junit.Assert.fail(Assert.java:88)
+	at com.skv.tests.web.Web_Application_Tests.searchProducts(Web_Application_Tests.java:69)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProducts -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1c025cb]" name="afterMethod" is-config="true" duration-ms="1602" started-at="2018-10-20T16:56:26Z" finished-at="2018-10-20T16:56:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.skv.tests.web.Web_Application_Tests -->
+      <class name="com.skv.tests.web.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.skv.tests.web.LoginTest@37c5fc56]" name="setUp" is-config="true" duration-ms="18817" started-at="2018-10-20T16:54:48Z" finished-at="2018-10-20T16:55:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testLogin()[pri:0, instance:com.skv.tests.web.LoginTest@37c5fc56]" name="testLogin" duration-ms="30881" started-at="2018-10-20T16:55:06Z" description="Login Page Test Using Page Factory" finished-at="2018-10-20T16:55:37Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[No such element (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Sraavan-Sumith', ip: '192.168.43.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities [{applicationCacheEnabled=true, InPrivate=false, pageLoadStrategy=normal, platform=ANY, acceptSslCerts=true, browserVersion=42.17134.1.0, platformVersion=10, locationContextEnabled=true, webStorageEnabled=true, browserName=MicrosoftEdge, takesScreenshot=true, takesElementScreenshot=true, platformName=windows}]
+Session ID: FA17F310-9A89-4281-9924-23CF3976913F
+*** Element info: {Using=link text, value=SIGN-OFF}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: No such element (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.01 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Sraavan-Sumith', ip: '192.168.43.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Capabilities [{applicationCacheEnabled=true, InPrivate=false, pageLoadStrategy=normal, platform=ANY, acceptSslCerts=true, browserVersion=42.17134.1.0, platformVersion=10, locationContextEnabled=true, webStorageEnabled=true, browserName=MicrosoftEdge, takesScreenshot=true, takesElementScreenshot=true, platformName=windows}]
+Session ID: FA17F310-9A89-4281-9924-23CF3976913F
+*** Element info: {Using=link text, value=SIGN-OFF}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy31.click(Unknown Source)
+	at com.skv.web.pages.HomePage.singOff(HomePage.java:21)
+	at com.skv.tests.web.LoginTest.testLogin(LoginTest.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.skv.tests.web.LoginTest@37c5fc56]" name="tearDown" is-config="true" duration-ms="2501" started-at="2018-10-20T16:55:38Z" finished-at="2018-10-20T16:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.skv.tests.web.LoginTest -->
+    </test> <!-- Web Test - Edge Browser -->
+    <test name="Web Test - Chrome Browser" duration-ms="124021" started-at="2018-10-20T11:24:48Z" finished-at="2018-10-20T11:26:52Z">
+      <class name="com.skv.tests.web.Web_Application_Tests">
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="beforeMethod" is-config="true" duration-ms="4356" started-at="2018-10-20T16:55:40Z" finished-at="2018-10-20T16:55:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="addProductTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="addProductTest" duration-ms="6565" started-at="2018-10-20T16:55:44Z" description="Product Page Test" finished-at="2018-10-20T16:55:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="afterMethod" is-config="true" duration-ms="1081" started-at="2018-10-20T16:55:51Z" finished-at="2018-10-20T16:55:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="beforeMethod" is-config="true" duration-ms="3818" started-at="2018-10-20T16:55:52Z" finished-at="2018-10-20T16:55:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="homePageTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="homePageTest" duration-ms="9682" started-at="2018-10-20T16:55:56Z" description="Home Page Test" finished-at="2018-10-20T16:56:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="afterMethod" is-config="true" duration-ms="1016" started-at="2018-10-20T16:56:06Z" finished-at="2018-10-20T16:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="beforeMethod" is-config="true" duration-ms="3946" started-at="2018-10-20T16:56:07Z" finished-at="2018-10-20T16:56:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="loginTest" duration-ms="21354" started-at="2018-10-20T16:56:11Z" description="Login Page Test" finished-at="2018-10-20T16:56:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="afterMethod" is-config="true" duration-ms="1061" started-at="2018-10-20T16:56:32Z" finished-at="2018-10-20T16:56:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="beforeMethod" is-config="true" duration-ms="4521" started-at="2018-10-20T16:56:33Z" finished-at="2018-10-20T16:56:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="logoutTest" duration-ms="3612" started-at="2018-10-20T16:56:38Z" description="Logout Page Test" finished-at="2018-10-20T16:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="afterMethod" is-config="true" duration-ms="1039" started-at="2018-10-20T16:56:41Z" finished-at="2018-10-20T16:56:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.String)[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="beforeMethod" is-config="true" duration-ms="3342" started-at="2018-10-20T16:56:42Z" finished-at="2018-10-20T16:56:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="searchProducts()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="searchProducts" duration-ms="4227" started-at="2018-10-20T16:56:46Z" description="Screenshot Capture Test" finished-at="2018-10-20T16:56:50Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[I Am Failed To Execute...]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: I Am Failed To Execute...
+	at org.junit.Assert.fail(Assert.java:88)
+	at com.skv.tests.web.Web_Application_Tests.searchProducts(Web_Application_Tests.java:69)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProducts -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.skv.tests.web.Web_Application_Tests@1440c311]" name="afterMethod" is-config="true" duration-ms="1079" started-at="2018-10-20T16:56:50Z" finished-at="2018-10-20T16:56:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.skv.tests.web.Web_Application_Tests -->
+      <class name="com.skv.tests.web.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.skv.tests.web.LoginTest@5226e402]" name="setUp" is-config="true" duration-ms="12563" started-at="2018-10-20T16:54:48Z" finished-at="2018-10-20T16:55:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="testLogin()[pri:0, instance:com.skv.tests.web.LoginTest@5226e402]" name="testLogin" duration-ms="33445" started-at="2018-10-20T16:55:00Z" description="Login Page Test Using Page Factory" finished-at="2018-10-20T16:55:34Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"link text","selector":"SIGN-OFF"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Sraavan-Sumith', ip: '192.168.43.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64994}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\sumit\AppData\Local\Temp\scoped_dir13012_28751}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: aec79e842fa4e6af2626eb8d30f4b565
+*** Element info: {Using=link text, value=SIGN-OFF}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"link text","selector":"SIGN-OFF"}
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'Sraavan-Sumith', ip: '192.168.43.50', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_191'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:64994}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\sumit\AppData\Local\Temp\scoped_dir13012_28751}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=69.0.3497.100, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: aec79e842fa4e6af2626eb8d30f4b565
+*** Element info: {Using=link text, value=SIGN-OFF}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:206)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:678)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByLinkText(RemoteWebDriver.java:428)
+	at org.openqa.selenium.By$ByLinkText.findElement(By.java:246)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy31.click(Unknown Source)
+	at com.skv.web.pages.HomePage.singOff(HomePage.java:21)
+	at com.skv.tests.web.LoginTest.testLogin(LoginTest.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:39)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:400)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.skv.tests.web.LoginTest@5226e402]" name="tearDown" is-config="true" duration-ms="2452" started-at="2018-10-20T16:55:38Z" finished-at="2018-10-20T16:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.skv.tests.web.LoginTest -->
+    </test> <!-- Web Test - Chrome Browser -->
+  </suite> <!-- Web Application Test Suite -->
+</testng-results>

@@ -1,0 +1,3 @@
+com\skv\web\pages\LoginPage.class
+com\skv\web\utils\OpenWebBrowser.class
+com\skv\web\pages\HomePage.class

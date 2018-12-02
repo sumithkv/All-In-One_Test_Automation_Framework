@@ -1,0 +1,862 @@
+0 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Web Application Test Suite STARTED
+16 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:01:57 IST 2018
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Edge Browser
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:01:57 IST 2018
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Chrome Browser
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:01:57 IST 2018
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Firefox Browser
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+47 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:01:57 IST 2018
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Firefox Browser
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:01:57 IST 2018
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Chrome Browser
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:01:57 IST 2018
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Edge Browser
+63 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+7705 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+7705 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+7930 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+7930 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+10138 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+10138 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+10148 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+10148 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+39148 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+39148 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+39411 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+39411 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+44272 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+44272 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+44331 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+44331 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+48836 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+48836 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+48836 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+48836 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+52000 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+52000 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+52013 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+52013 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+52051 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+52051 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+52075 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+52075 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+54432 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+54432 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+54444 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+54444 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+54444 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is SKIPPED
+54444 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+54460 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is SKIPPED
+54460 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+55688 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+55688 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+55722 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+55722 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+56086 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+56086 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+56090 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+56090 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+63599 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+63603 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+63610 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+63610 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+65350 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65350 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+65350 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65350 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+65350 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65350 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65365 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65365 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65365 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65365 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+65381 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65381 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+65381 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65381 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65381 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65381 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65397 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65397 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+65397 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65397 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+65397 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65397 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65412 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65412 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65412 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65412 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+65428 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+65428 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+65428 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65428 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65428 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+65428 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 1
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 1
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 4
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@55617c91
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@3d957a20
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.LoginTest
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:02 IST 2018
+65490 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 1
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 1
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 4
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@2dc793f4
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@3b15a816
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.LoginTest
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:02 IST 2018
+65522 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+67842 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+67842 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+67856 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+67856 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+68575 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+68575 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+68575 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+68575 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+71483 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+71483 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+71501 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+71502 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+73712 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+73712 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+73727 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+73727 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+76768 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+76768 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+76779 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+76779 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+78091 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+78091 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+78105 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+78105 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 4
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 2
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@2db2c095
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@1c7f9e33
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.web.Web_Application_Tests
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.LoginTest
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:16 IST 2018
+79788 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 4
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 2
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@711e7cc
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@725c6715
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.web.Web_Application_Tests
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.LoginTest
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:16 IST 2018
+79820 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+104147 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104147 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+104162 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104162 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+104162 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104162 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104178 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104178 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104178 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104178 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+104193 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104193 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+104193 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104193 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104209 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104224 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104224 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104224 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104224 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+104240 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104240 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+104240 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104240 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104240 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104240 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+104256 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 0
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 0
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 6
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@635670e2
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@553607dd
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:41 IST 2018
+104318 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 0
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 0
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 6
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@31d4857e
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@665f45b
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:41 IST 2018
+104334 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Web Application Test Suite FINISHED
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE REST API Test Suite STARTED
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:03:41 IST 2018
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: REST API Test Suite
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: REST API Test
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+104412 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+104428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:03:41 IST 2018
+104428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: REST API Test Suite
+104428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: REST API Test
+104428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+104428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+104428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponse
+104443 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+104443 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponse
+107627 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107627 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107637 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107637 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107661 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107661 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseCode
+107676 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107676 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseCode
+107723 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107723 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107723 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107723 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107754 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107754 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseMessage
+107754 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107754 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseMessage
+107817 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107817 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107817 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107817 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107832 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107832 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyHeader
+107848 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107848 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyHeader
+107911 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107911 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107911 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107911 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+107942 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107942 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseCode
+107942 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+107942 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseCode
+107989 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+107989 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108020 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108020 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseMessage
+108020 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108020 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseMessage
+108082 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108082 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108082 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108082 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108129 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108129 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyValidResponseCode
+108129 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108129 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyValidResponseCode
+108176 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108176 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108192 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108192 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108270 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108270 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyValidResponseMessage
+108270 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108270 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyValidResponseMessage
+108348 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108348 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108395 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108395 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108489 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108489 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getHeader
+108504 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108504 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getHeader
+108567 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108567 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108598 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108598 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108642 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108642 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getParamValid1
+108642 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108642 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getParamValid1
+108751 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108751 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108751 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108767 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108788 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108788 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getParamValid2
+108788 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108788 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getParamValid2
+108834 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108834 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108850 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108850 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108881 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108881 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getParamValid3
+108881 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108881 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getParamValid3
+108928 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108928 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108944 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+108944 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108975 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108975 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getQueryParamOne
+108975 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+108975 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getQueryParamOne
+109038 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+109038 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109038 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+109038 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109069 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+109069 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getQueryParamTwo
+109069 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+109069 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : getQueryParamTwo
+109116 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+109116 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109116 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+109116 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109147 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+109147 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : postRequestXML
+109147 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+109147 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : postRequestXML
+109413 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+109413 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+109428 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109663 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 0
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 15
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@1b1252c8
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@19d53ab4
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 5: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 6: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 7: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 8: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 9: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 10: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 11: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 12: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 13: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 14: com.skv.tests.api.RMA_API_Tests
+109670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 15: com.skv.tests.api.RMA_API_Tests
+109671 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:46 IST 2018
+109671 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 0
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 15
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@53cb0bcb
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@51fe7f15
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 5: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 6: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 7: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 8: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 9: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 10: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 11: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 12: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 13: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 14: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 15: com.skv.tests.api.RMA_API_Tests
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:46 IST 2018
+109687 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109797 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE REST API Test Suite FINISHED
+109812 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Mobile App Test Suite STARTED
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:03:47 IST 2018
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Mobile App Test Suite
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Mobile Test
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:03:47 IST 2018
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Mobile App Test Suite
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Mobile Test
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : exitApp
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109828 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : exitApp
+109843 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109843 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109859 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109859 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : lauchApp
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : lauchApp
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109890 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109906 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109906 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : refreshApp
+109906 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109906 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : refreshApp
+109906 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109906 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109922 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109922 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : updateApp
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.mobi.Mobile_Application_Tests
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : updateApp
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.mobi.Mobile_Application_Tests is PASSED
+109953 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 4
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 0
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@314b7945
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@32da97fd
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.mobi.Mobile_Application_Tests
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.mobi.Mobile_Application_Tests
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.mobi.Mobile_Application_Tests
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.mobi.Mobile_Application_Tests
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:47 IST 2018
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 4
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 0
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@64440065
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@4aa22cc2
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.mobi.Mobile_Application_Tests
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.mobi.Mobile_Application_Tests
+110031 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.mobi.Mobile_Application_Tests
+110047 [main] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.mobi.Mobile_Application_Tests
+110047 [main] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+110047 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Wed Sep 26 15:03:47 IST 2018
+110047 [main] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+110203 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Mobile App Test Suite FINISHED
+110218 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE All Test Suites (Web + API + Mobile) STARTED
+110218 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE All Test Suites (Web + API + Mobile) FINISHED
+0 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Web Application Test Suite STARTED
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:21:04 IST 2018
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Firefox Browser
+31 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+47 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+47 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:21:04 IST 2018
+47 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+47 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Chrome Browser
+47 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:21:04 IST 2018
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Edge Browser
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:21:04 IST 2018
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Chrome Browser
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:21:04 IST 2018
+94 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Firefox Browser
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Wed Sep 26 15:21:04 IST 2018
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Edge Browser
+109 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+7474 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+7474 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+7729 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+7729 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+10020 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+10020 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+10029 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+10029 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+0 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Web Application Test Suite STARTED
+11 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+11 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+13 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+16 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:03:54 IST 2018
+16 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+16 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Chrome Browser
+16 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:03:54 IST 2018
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Edge Browser
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:03:54 IST 2018
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+17 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Firefox Browser
+18 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+34 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+34 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:03:54 IST 2018
+34 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+34 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Firefox Browser
+34 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+34 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+39 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:03:54 IST 2018
+39 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+39 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Edge Browser
+39 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+40 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+41 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:03:54 IST 2018
+41 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: Web Application Test Suite
+41 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: Web Test - Chrome Browser
+41 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+460 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+461 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+622 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+622 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+650 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is SKIPPED
+651 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+902 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is SKIPPED
+903 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+994 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+995 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+1002 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1002 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+1002 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1003 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1039 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1039 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1056 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1057 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+1062 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1062 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+1062 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1062 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1090 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1091 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1100 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1100 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+1113 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1113 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+1113 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1113 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1283 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1283 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1312 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1312 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+1315 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1315 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+1316 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1316 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1429 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1429 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1442 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1442 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+1449 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+1449 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+1450 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1450 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1465 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is SKIPPED
+1465 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 3
+1547 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+1547 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 0
+1547 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 0
+1548 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 6
+1548 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@51406929
+1548 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@5ae27cf1
+1548 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+1550 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+1550 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Sat Oct 20 17:03:55 IST 2018
+1550 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+1611 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+1611 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 0
+1611 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 0
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 6
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@728f751b
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@3bc38a4f
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Sat Oct 20 17:03:55 IST 2018
+1612 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+7177 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+7177 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+7181 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+7181 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+9874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+9875 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+9877 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.LoginTest
+9877 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : testLogin
+37573 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+37573 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+37596 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+37596 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+42400 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+42400 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+42430 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.LoginTest is FAILED
+42430 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+47108 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+47108 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+47112 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+47112 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+48200 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+48200 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+48225 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+48225 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+48666 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+48666 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+48670 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+48670 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : addProductTest
+50888 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+50889 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+50891 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+50891 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+53105 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+53105 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+53130 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+53131 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+54143 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+54143 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+54160 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+54161 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+57785 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+57785 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+57789 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+57789 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+64893 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+64894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+64908 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+64908 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+64917 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+64917 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+64921 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+64921 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : homePageTest
+65468 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+65468 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+65497 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+65498 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+67792 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+67793 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+67795 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+67795 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+69617 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+69617 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+69642 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+69642 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+70828 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+70828 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+70832 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+70832 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : loginTest
+73561 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+73561 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+73564 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+73564 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+75150 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+75150 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+75168 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+75168 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+76738 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+76738 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 4
+76738 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 2
+76738 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+76738 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@5866a9
+76738 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@430d1896
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.web.Web_Application_Tests
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.LoginTest
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Sat Oct 20 17:05:11 IST 2018
+76739 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 4
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 2
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@327dd8ba
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@3763207f
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 4: com.skv.tests.web.Web_Application_Tests
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.LoginTest
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Sat Oct 20 17:05:11 IST 2018
+76758 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+92030 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+92030 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+92045 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+92045 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+96323 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+96323 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+96326 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+96326 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : logoutTest
+100041 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+100042 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+100049 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Case: com.skv.tests.web.Web_Application_Tests is PASSED
+100050 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 1
+104333 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104333 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+104335 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.web.Web_Application_Tests
+104335 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : searchProducts
+108216 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+108216 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+108229 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.web.Web_Application_Tests is FAILED
+108229 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+109873 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109873 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 3
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 3
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@12e98afb
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@3873bfd6
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.LoginTest
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Sat Oct 20 17:05:44 IST 2018
+109874 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109893 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Passed Tests: 3
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Failed Tests: 3
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Number of Skipped Tests: 0
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Included Groups: [Ljava.lang.String;@49dd9eb0
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Excluded Groups: [Ljava.lang.String;@51ae92bf
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - PASSED TESTS
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.Web_Application_Tests
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - FAILED TESTS
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 1: com.skv.tests.web.Web_Application_Tests
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 2: com.skv.tests.web.LoginTest
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - 3: com.skv.tests.web.Web_Application_Tests
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - Test Finish Time: Sat Oct 20 17:05:44 IST 2018
+109894 [TestNG] INFO com.skv.framework.utils.TestScriptsLogger  - ###############################################################################################################################
+110000 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE Web Application Test Suite FINISHED
+110003 [main] INFO com.skv.framework.utils.TestScriptsLogger  - TEST SUITE REST API Test Suite STARTED
+110003 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+110003 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:05:44 IST 2018
+110003 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: REST API Test Suite
+110003 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: REST API Test
+110003 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+110004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+110004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test Start Time: Sat Oct 20 17:05:44 IST 2018
+110004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test SUITE Name is: REST API Test Suite
+110004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Test TEST Name is: REST API Test
+110004 [main] INFO com.skv.framework.utils.TestScriptsLogger  - *************************************************************************************************
+110015 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+110015 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponse
+110017 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+110017 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponse
+133442 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+133443 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+133502 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+133502 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+133584 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+133585 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseCode
+133591 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+133592 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseCode
+154624 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+154624 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+154670 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+154671 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+154700 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+154700 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseMessage
+154702 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+154702 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : GetResponseMessage
+175716 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+175716 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+175794 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+175794 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+175819 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+175819 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyHeader
+175822 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+175822 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyHeader
+196844 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+196844 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+196886 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+196886 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+196991 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+196991 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseCode
+196998 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+196998 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseCode
+218028 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+218028 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+218073 [main] INFO com.skv.framework.utils.TestScriptsLogger  - The Test Case: com.skv.tests.api.RMA_API_Tests is FAILED
+218073 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Status of the Test is : 2
+218100 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+218100 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseMessage
+218102 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Instance : com.skv.tests.api.RMA_API_Tests
+218102 [main] INFO com.skv.framework.utils.TestScriptsLogger  - Started Test Method : VerifyInvalidResponseMessage

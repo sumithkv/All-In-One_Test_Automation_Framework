@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suites (Web + API + Mobile)"
+	parallel="false" preserve-order="true">
+
+	<listeners>
+		<listener class-name="com.skv.framework.utils.TestNgSuiteListener" />
+		<listener class-name="com.skv.framework.utils.TestNgTestListener" />
+		<listener class-name="com.skv.framework.utils.ExtentReportsListener" />
+		<listener class-name="com.skv.framework.utils.AllureListener" />
+	</listeners>
+
+	<suite-files>
+		<suite-file path="Web_testng.xml"></suite-file>
+		<suite-file path="Api_testng.xml"></suite-file>
+		<suite-file path="Mobi_testng.xml"></suite-file>
+	</suite-files>
+</suite>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Web Application Test Suite" parallel=" tests"
+	thread-count="3">
+
+	<test name="Web Test - Firefox Browser" preserve-order="true">
+		<parameter name="browser" value="firefox" />
+		<packages>
+			<package name="com.skv.tests.web" />
+		</packages>
+	</test>
+	<test name="Web Test - Chrome Browser" preserve-order="true">
+		<parameter name="browser" value="chrome" />
+		<packages>	
+			<package name="com.skv.tests.web" />
+		</packages>
+	</test>
+	<test name="Web Test - Edge Browser" preserve-order="true">
+		<parameter name="browser" value="edge" />
+		<packages>
+			<package name="com.skv.tests.web" />
+		</packages>
+	</test>
+</suite>
