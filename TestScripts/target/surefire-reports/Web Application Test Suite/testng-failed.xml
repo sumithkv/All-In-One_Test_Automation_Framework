@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Web Application Test Suite]" parallel="tests">
+  <parameter name="browser" value="edge"/>
+  <listeners>
+    <listener class-name="com.skv.framework.utils.TestNgSuiteListener"/>
+    <listener class-name="com.skv.framework.utils.TestNgTestListener"/>
+    <listener class-name="com.skv.framework.utils.ExtentReportsListener"/>
+    <listener class-name="com.skv.framework.utils.AllureListener"/>
+  </listeners>
+  <test name="Web Test - Firefox Browser">
+    <parameter name="browser" value="firefox"/>
+    <packages>
+      <package name="com.skv.tests.web"/>
+    </packages>
+    <classes>
+      <class name="com.skv.tests.web.LoginTest"/>
+      <class name="com.skv.tests.web.Web_Application_Tests"/>
+    </classes>
+  </test> <!-- Web Test - Firefox Browser -->
+  <test name="Web Test - Chrome Browser">
+    <parameter name="browser" value="chrome"/>
+    <packages>
+      <package name="com.skv.tests.web"/>
+    </packages>
+    <classes>
+      <class name="com.skv.tests.web.LoginTest"/>
+      <class name="com.skv.tests.web.Web_Application_Tests"/>
+    </classes>
+  </test> <!-- Web Test - Chrome Browser -->
+  <test name="Web Test - Edge Browser">
+    <parameter name="browser" value="edge"/>
+    <packages>
+      <package name="com.skv.tests.web"/>
+    </packages>
+    <classes>
+      <class name="com.skv.tests.web.LoginTest"/>
+      <class name="com.skv.tests.web.Web_Application_Tests"/>
+    </classes>
+  </test> <!-- Web Test - Edge Browser -->
+  <test name="Web Test - Firefox Browser(failed)" parallel="tests">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.skv.tests.web.Web_Application_Tests">
+        <methods>
+          <include name="searchProducts"/>
+          <include name="logoutTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="addProductTest"/>
+          <include name="loginTest"/>
+          <include name="homePageTest"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.skv.tests.web.Web_Application_Tests -->
+      <class name="com.skv.tests.web.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.skv.tests.web.LoginTest -->
+    </classes>
+  </test> <!-- Web Test - Firefox Browser(failed) -->
+  <test name="Web Test - Edge Browser(failed)" parallel="tests">
+    <parameter name="browser" value="edge"/>
+    <classes>
+      <class name="com.skv.tests.web.Web_Application_Tests">
+        <methods>
+          <include name="searchProducts"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="addProductTest"/>
+          <include name="homePageTest"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.skv.tests.web.Web_Application_Tests -->
+      <class name="com.skv.tests.web.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.skv.tests.web.LoginTest -->
+    </classes>
+  </test> <!-- Web Test - Edge Browser(failed) -->
+  <test name="Web Test - Chrome Browser(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.skv.tests.web.Web_Application_Tests">
+        <methods>
+          <include name="searchProducts"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="addProductTest"/>
+          <include name="loginTest"/>
+          <include name="afterMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.skv.tests.web.Web_Application_Tests -->
+      <class name="com.skv.tests.web.LoginTest">
+        <methods>
+          <include name="testLogin"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.skv.tests.web.LoginTest -->
+    </classes>
+  </test> <!-- Web Test - Chrome Browser(failed) -->
+</suite> <!-- Failed suite [Web Application Test Suite] -->

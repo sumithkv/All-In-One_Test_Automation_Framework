@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [REST API Test Suite]">
+  <listeners>
+    <listener class-name="com.skv.framework.utils.TestNgSuiteListener"/>
+    <listener class-name="com.skv.framework.utils.TestNgTestListener"/>
+    <listener class-name="com.skv.framework.utils.ExtentReportsListener"/>
+    <listener class-name="com.skv.framework.utils.AllureListener"/>
+  </listeners>
+  <test name="REST API Test">
+    <packages>
+      <package name="com.skv.tests.api"/>
+    </packages>
+    <classes>
+      <class name="com.skv.tests.api.RMA_API_Tests"/>
+    </classes>
+  </test> <!-- REST API Test -->
+  <test name="REST API Test(failed)">
+    <classes>
+      <class name="com.skv.tests.api.RMA_API_Tests">
+        <methods>
+          <include name="VerifyInvalidResponseCode"/>
+          <include name="getParamValid3"/>
+          <include name="getParamValid1"/>
+          <include name="VerifyValidResponseMessage"/>
+          <include name="getParamValid2"/>
+          <include name="VerifyInvalidResponseMessage"/>
+          <include name="beforeMethod"/>
+          <include name="VerifyHeader"/>
+          <include name="getQueryParamOne"/>
+          <include name="getHeader"/>
+          <include name="GetResponse"/>
+          <include name="GetResponseMessage"/>
+          <include name="VerifyValidResponseCode"/>
+          <include name="getQueryParamTwo"/>
+          <include name="afterMethod"/>
+          <include name="postRequestXML"/>
+          <include name="GetResponseCode"/>
+        </methods>
+      </class> <!-- com.skv.tests.api.RMA_API_Tests -->
+    </classes>
+  </test> <!-- REST API Test(failed) -->
+</suite> <!-- Failed suite [REST API Test Suite] -->
