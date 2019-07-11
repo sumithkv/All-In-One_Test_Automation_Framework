@@ -10,10 +10,10 @@ import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.firefox.internal.ProfilesIni;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
-public class OpenWebBrowser {
+public class InitializeWeDriver {
 	
 	// Static member of the class
-	private static OpenWebBrowser singletonSetWebDriver;
+	private static InitializeWeDriver initializeWebDriver;
 	
 	public static WebDriver driver;
 	
@@ -22,15 +22,15 @@ public class OpenWebBrowser {
 	}
 	
 	// Private Constructor
-	private OpenWebBrowser() {
+	private InitializeWeDriver() {
     }
 
 	// Global point of access
-	public static OpenWebBrowser getSingletonWebDriverInstance() {
-        if (null == singletonSetWebDriver) {
-        	singletonSetWebDriver = new OpenWebBrowser();
+	public static InitializeWeDriver getSingletonWebDriverInstance() {
+        if (null == initializeWebDriver) {
+        	initializeWebDriver = new InitializeWeDriver();
         }
-        return singletonSetWebDriver;
+        return initializeWebDriver;
     }
 
 	
