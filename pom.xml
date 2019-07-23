@@ -40,10 +40,11 @@
 		</plugins>
 	</build>
 	<modules>
+		<module>JavaAutomation</module>
 		<module>ApiAutomation</module>
 		<module>WebAutomation</module>
 		<module>MobiAutomation</module>
-		<module>TestScripts</module>
 		<module>DesktopAutomation</module>
+		<module>TestScripts</module>
 	</modules>
 </project>
